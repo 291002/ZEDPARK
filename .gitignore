@@ -1,0 +1,4 @@
+# local test screenshots
+.impeccable/
+__pycache__/
+*.bak*
